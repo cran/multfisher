@@ -1,0 +1,5 @@
+export(mfisher.test)
+importFrom("stats", "dhyper", "dmultinom", "phyper", "fisher.test")
+importFrom("graphics", "abline", "axis", "box", "mtext", "plot", "title")
+S3method(print,multfisher)
+S3method(plot,multfisher)
