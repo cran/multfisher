@@ -67,7 +67,9 @@
 #' }
 #'
 #' @author Robin Ristl, \email{robin.ristl@@meduniwien.ac.at}
-#' @references Robin Ristl, Dong Xi, Ekkehard Glimm, Martin Posch. Optimal exact tests for multiple binary endpoints. arXiv:1612.07561 \url{https://arxiv.org/abs/1612.07561}
+#' @references Robin Ristl, Dong Xi, Ekkehard Glimm, Martin Posch (2018), Optimal exact tests for multiple binary endpoints. 
+#'     \emph{Computational Statistics and Data Analysis}, \strong{122}, 1-17. doi: 10.1016/j.csda.2018.01.001 (open access)
+#'
 #' @seealso \code{\link{print.multfisher}}, \code{\link{plot.multfisher}}
 #'
 #' @examples

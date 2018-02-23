@@ -1,0 +1,17 @@
+citEntry(entry="Article",
+         title = "Optimal exact tests for multiple binary endpoints",
+         author = personList(as.person("Robin Ristl"),
+                             as.person("Dong Xi"),
+                             as.person("Ekkehard Glimm"),
+                             as.person("Martin Posch")),
+         journal      = "Computational Statistics and Data Analysis",
+         year         = "2018",
+         volume       = "122", 
+         pages        = "1--17",
+         
+         textVersion =
+         paste("Robin Ristl, Dong Xi, Ekkehard Glimm and Martin Posch (2018).", 
+               "Optimal exact tests for multiple binary endpoints.",
+               "Computational Statistics and Data Analysis 122, 1--17."),
+         header = "Please cite the multfisher package by the following reference (open access):"
+)

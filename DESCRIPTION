@@ -1,6 +1,6 @@
 Package: multfisher
 Title: Optimal Exact Tests for Multiple Binary Endpoints
-Version: 1.0
+Version: 1.1
 Authors@R: person("Robin", "Ristl", email = "robin.ristl@meduniwien.ac.at", role = c("aut", "cre"))
 Description: Calculates exact hypothesis tests to compare a treatment and a reference group with respect to multiple binary endpoints.
     The tested null hypothesis is an identical multidimensional distribution of successes and failures in both groups. The alternative
@@ -10,7 +10,7 @@ Description: Calculates exact hypothesis tests to compare a treatment and a refe
     significance level, maximal power under a specified alternative or maximal number of elements can be found. Optimization is achieved
     by a branch-and-bound algorithm. By application of the closed testing principle, the global hypothesis tests are extended to multiple
     testing procedures.
-Date: 2017-04-27
+Date: 2018-02-23
 Author: Robin Ristl [aut, cre]
 Maintainer: Robin Ristl <robin.ristl@meduniwien.ac.at>
 Depends: R (>= 3.0.0)
@@ -20,6 +20,6 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-04-27 16:01:34 UTC; Robin
+Packaged: 2018-02-23 09:59:17 UTC; Robin
 Repository: CRAN
-Date/Publication: 2017-04-27 16:14:05 UTC
+Date/Publication: 2018-02-23 10:29:06 UTC

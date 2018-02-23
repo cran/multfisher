@@ -1,6 +1,7 @@
-a59469139eac34469c174ea02aee5294 *DESCRIPTION
+607df597bd2df769c57c26f632e3ce70 *DESCRIPTION
 ae0f61805550341401644e34a198e8d1 *NAMESPACE
-2a36b638829ebb407d4697cad03200ea *R/multBinExact_2-3.R
-7fef2f2b36a9d7f83ba7fe891d50ad17 *man/mfisher.test.Rd
-db9628005133dcfe8923271be23440b0 *man/plot.multfisher.Rd
-749e555f6973c28cc36697d43c9cffa7 *man/print.multfisher.Rd
+7408b15389a4256b3c85b466ac744945 *R/multBinExact_2-4.R
+eb9992be4573b9d2522a0d6ba756db7a *inst/CITATION
+1a86320fd7d627b97c2c26d4d4fb22d5 *man/mfisher.test.Rd
+28a26e7ea8500069ee9ebde2a649cece *man/plot.multfisher.Rd
+9b3b6800eb548f8769c31ea57afac3a1 *man/print.multfisher.Rd
